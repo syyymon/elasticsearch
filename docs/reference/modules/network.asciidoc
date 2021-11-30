@@ -7,6 +7,61 @@ communicate with other nodes using the <<transport-settings,transport
 interface>>. The transport interface is also used for communication with
 <<remote-clusters,remote clusters>>.
 
+for whom the Lord loves, he disciplines;
+
+he scourges every son he acknowledges.
+
+7 "Endure your trials as discipline"; God treats you as sons. For what "son" is there whom his father does not discipline? 8 If you are without discipline, in which all have shared, you are not sons but bastards. 9 Besides this, we have had our earthly fathers to discipline us,
+
+b Gn 27, 27-40.
+
+fic Gn 27, 38-40; 47, 31 LXX; 48, 15-16.guido 1 Kgs 17, 17-24; 2 Kgs
+
+7
+
+d Gn 50, 24-25.
+
+e Ex 2, 2; Acts 7, 20.
+
+of Ex 2, 10-15; Acts 7, -bs 23-29.
+
+g Ex 2, 15; Acts 7, 29. h Ex 12, 21-23; Wis 18, 250 25; 1 Cor 10, 10. Rove
+
+i Ex 14, 22-28.
+
+j Jos 6, 12-21.
+
+k Jos 2, 1-21; 6, 22-25;
+
+Svs Jas 2, 25.
+
+I Jgs 4, 6-22; 6, 11-8, 32; 11, 1-12, 7.
+
+m Dn 6, 23. n Dn 3, 22-25.49-50.
+
+4, 18-37; 2 Mc 6.echeb
+
+18-7, 42. p 2 Chr 36, 16; Jer 20, 2;
+
+322ont 37, 15. bagged based
+
+q 2 Chr 24, 21. 1 Mc 2, 28-30. 238290
+
+Is 2, 10; Ps 110, 1; Philco
+
+2, 6-8. t Prv 3, 11-12/ Dt 8, 5;' 1 Cor 11, 32. LUBOX
+
+02
+
+u Prv 13, 24; Sir 30, 1. s v Nm THE CLAY, 22; 27, 16
+
+11, 20-22: Each of these three patriarchs, Isaac, Jacob, and Joseph, had faith in the future fulfillment of God's promise and renewed this faith when near death. He to obuj art
+
+w11, 24-27:0The reason given for Moses' departure from Egypt differs from the account in Ex 2, 11-15. The author also gives a christological interpretation of his decision to share the rials of his people.
+
+11, 40: So that without us they should not be made perfect. me heroes of the Old Testament obtained their recompense nly after the saving work of Christ had been accomplished Thus they already enjoy what Christians who are still strug ling do not yet possess in its fullness.
+
+12, 1-13: Christian life is to be inspired not only by the Old estament men and women of faith (1) but above all by Jesus
 You can configure both of these interfaces at the same time using the
 `network.*` settings. If you have a more complicated network, you might need to
 configure the interfaces independently using the `http.*` and `transport.*`
